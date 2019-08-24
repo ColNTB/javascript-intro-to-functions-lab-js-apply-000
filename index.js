@@ -16,6 +16,7 @@ function sayHiToGrandma(string){
     response = "I can't hear you!"
   }
   if(string===uppercase){
-    response = "Yes, indeed"
+    response = "YES INDEED!"
   }
+  if
 }
