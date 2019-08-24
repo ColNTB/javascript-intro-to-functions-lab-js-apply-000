@@ -20,7 +20,7 @@ function sayHiToGrandma(string){
   if(string===uppercase){
     response = "YES INDEED!"
   }
-  if(string==="I love you, grandma"){
+  if(string==="I love you, Grandma."){
     response = "I love you, too"
   }
   return response
